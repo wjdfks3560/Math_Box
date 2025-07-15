@@ -8,6 +8,6 @@ def subtract(a, b):
 
 <<<<<<< HEAD
 =======
-def divide(a, b):
+def divide_premium(a, b):
     return a/b
 >>>>>>> master
